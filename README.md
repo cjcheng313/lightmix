@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 # Lightmix
 
 Lightmix is a Python-based project focused on creating efficient algorithms for light mixing in computer graphics. This project explores various techniques and optimizations for achieving realistic lighting effects. It is an algorithm to mix the light with 5 led chips to generate more soft color than the 3 LED chips.
